@@ -1,0 +1,8 @@
+prefix=/home/xueliang/catkin_joy/install
+
+Name: joydata_package
+Description: Description of joydata_package
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: roscpp rospy
